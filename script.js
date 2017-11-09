@@ -1,4 +1,4 @@
-fucntion vocabList(vocabSet) {
+function vocabList(vocabSet) {
   var text = "";
   for(x in vocabSet) {
     text = text + x + ": " + vocabSet[x] + "<br />";
