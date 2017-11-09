@@ -9,12 +9,16 @@
   <center>
   <div class="page">
     <h3>This page works.</h3>
+    <h4>Vocab Set 1:</h4>
+    <div id="set1"></div>
   </div>
   </center>
   <script>
+    var text = "";
     for (x in set1) {
-      console.log(x + ": " + set1[x]);
+      text += x + ": " + set1[x] + "\n";
     }
+    document.getElementById("set1").innerHTML = text;
   </script>
   <script>
     w3.includeHTML();
