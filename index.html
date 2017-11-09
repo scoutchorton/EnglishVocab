@@ -3,6 +3,7 @@
   <link rel="stylesheet" type="text/css" href="../styles.css" />
   <script src="https://www.w3schools.com/lib/w3.js"></script>
   <script src="sets.js"></script>
+  <script src="script.js"></script>
 </head>
 <body>
   <div w3-include-html="../nav.html"></div>
@@ -10,16 +11,10 @@
   <div class="page">
     <h3>This page works.</h3>
     <h4>Vocab Set 1:</h4>
+    <button onclick
     <div id="set1"></div>
   </div>
   </center>
-  <script>
-    var text = "";
-    for (x in set1) {
-      text += x + ": " + set1[x] + "<br />";
-    }
-    document.getElementById("set1").innerHTML = text;
-  </script>
   <script>
     w3.includeHTML();
   </script>
