@@ -15,3 +15,70 @@ var set1 = {
 "Amorphous": "Shapeless, formless, or vague",
 "Opulent": "Rich, luxurious, wealthy"
 };
+var set2 = {
+"Impotent": "Powerless",
+"Antithesis": "Exact opposite, or opposite extreme",
+"Maelstrom": "Whirpool, turbine, or agitated state of mind",
+"Emendation": "Correction",
+"Chargin": "Embarrassment or complete loss of courage",
+"Bauble": "Showy, but useless thing",
+"Diaphonous": "Very sheer",
+"Labrynth": "A complicated network of winding passages, a maze",
+"Gloat": "To look at or think about with great satisfaction",
+"Impediment": "A barrier or obstruction",
+"Bestial": "Savage or burtal",
+"Effete": "Worn out or barren",
+"Shard": "A fragment",
+"Bland": "Mild, tasteless, or dull",
+"Nihilism": "Total rejection of established laws"};
+var set3 = {
+"Pedestrian": "Ordinary or dull",
+"Bona fide": "In good faith",
+"Adventitious": "Accidential or nonessential",
+"Fecund": "Fertile or productive",
+"Deviate": "To turn aside from a course, or to stray",
+"Obfuscate": "To confuse or bewilder",
+"Impale": "To pierce with a sharp stake through the body",
+"Extenvate": "To lessen seriousness by providing partial excueses",
+"Parochial": "Local or narrow or limited",
+"Glower": "To stare angrily",
+"Edify": "To improve someone morally",
+"Ambiguous": "Open to more than one interpretation",
+"Cataclysm": "A violent change",
+"Optimum": "The best or most favorable or ideal",
+"Importune": "To ask persistently or to beg"
+};
+var set4 = {
+"Celibate": "Abstaining from intercourse",
+"Fortuitous": "Happening by chance, or fortunate",
+"Recapitulate": "Summarize or to repeat briefly",
+"Perfunctory": "Done without care or in a routine fashion",
+"Baroque": "Overly decorated",
+"Hedonism": "Pursuit of pleasure especially of senses",
+"Obloquy": "Strong disapproval or a bad reputation from public criticism",
+"Debacle": "Complete failure, or a total collapse",
+"Quasi-": "Resembling, seeming, or half",
+"Besmirch": "To make dirty or to stain",
+"Imperative": "Extremely necessary or vitally important",
+"Sacrosanct": "Extremely holy",
+"Sadistic": "Deriving pleasure from inflicting pain on another",
+"Demeanor": "Behavior or the manner of conducing oneself",
+"Facetious": "Comical, jocular, or flippant"
+};
+var set5 = {
+"Fop": "An excessively fashioned conscious man",
+"Imprecation": "A curse",
+"Non sequitur": "Something that does not logically follow",
+"Sanguine": "Cheerful or optimistic",
+"Bowdlerize": "To remove offensive passages of a play, novel, etc.",
+"Impair": "To weaken, or to cause to become worse",
+"Panegyric": "An expression of praise",
+"Quandary": "A puzzling situation or a dilemma",
+"Ebulliment": "Enthusiastic",
+"Deference": "Respect or consideration",
+"Carnal": "Relating to physical appetite, especially sexual",
+"Nebulous": "Hazy, vague, or uncertain",
+"Rakish": "Carefree, dashing, or jaunty",
+"Elegy": "A sad, or mournful poem",
+"Pedantic": "Tending to show off one's learning"
+};
