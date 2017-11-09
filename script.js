@@ -1,4 +1,4 @@
-fucntion revealSet1(vocabSet) {
+fucntion vocabList(vocabSet) {
   var text = "";
   for(x in set1) {
     text = text + x + ": " + set1[x] + "<br />";
