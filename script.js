@@ -8,4 +8,3 @@ function vocabList(vocabSet) {
   }
   document.getElementById('words').innerHTML = vocabSet;
 };
-//DAB
