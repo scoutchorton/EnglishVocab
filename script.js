@@ -6,5 +6,5 @@ function vocabList(vocabSet) {
     console.log(x);
     console.log(vocabSet[x]);
   }
-  document.getElementById('words').innerHTML = vocabSet;
+  document.getElementById('words').innerHTML = text;
 };
