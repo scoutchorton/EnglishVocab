@@ -5,3 +5,4 @@ function vocabList(vocabSet) {
   }
   document.getElementById('words').innerHTML = text;
 };
+//10:17
