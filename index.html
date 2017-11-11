@@ -4,19 +4,27 @@
   <script src="https://www.w3schools.com/lib/w3.js"></script>
   <script src="sets.js"></script>
   <script src="script.js"></script>
+  <style>
+		.word {
+			text-align: right;
+		}
+		.def {
+			text-align: left;
+		}
+  </style>
 </head>
 <body>
   <div w3-include-html="../nav.html"></div>
   <center>
   <div class="page">
-    <h4>View SAT vocabulary sets:</h4>
-    <button onclick="vocabList(set1)">Set 1</button><button onclick="vocabList(set2)">Set 2</button><button onclick="vocabList(set3)">Set 3</button><button onclick="vocabList(set4)">Set 4</button><button onclick="vocabList(set5)">Set 5</button>
-    <br />
-    <br />
-    <div id="words">Click a button to view words and definitions from that set.</div>
+	<h4>View SAT vocabulary sets:</h4>
+	<button onclick="vocabList(set1)">Set 1</button><button onclick="vocabList(set2)">Set 2</button><button onclick="vocabList(set3)">Set 3</button><button onclick="vocabList(set4)">Set 4</button><button onclick="vocabList(set5)">Set 5</button>
+	<br />
+	<br />
+	<table id="words">Click a button to view words and definitions from that set.</table>
   </div>
   </center>
   <script>
-    w3.includeHTML();
+	w3.includeHTML();
   </script>
 </body>

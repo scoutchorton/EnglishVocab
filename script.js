@@ -1,12 +1,7 @@
 function vocabList(vocabSet) {
   var text = "";
   for(x in vocabSet) {
-    text = text + x + ": " + vocabSet[x] + "<br />";
-    console.log(text);
-    console.log(x);
-    console.log(vocabSet[x]);
+    text += "<tr><td class=\"word\">" + x + ": </td><td class=\"def\">" + vocabSet[x] + "</td></tr>";
   }
-  console.log(text);
-  console.log(typeof(text));
   document.getElementById('words').innerHTML = text;
 };
